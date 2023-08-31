@@ -1,0 +1,10 @@
+{
+  "fmt": {
+    "exclude": [
+      "node_modules",
+      ".git",
+      "output",
+      ".spago"
+    ]
+  }
+}
